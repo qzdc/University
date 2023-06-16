@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0a99313-4983-48a4-bfb2-7bd6a7a257c9": {
+      "ProjectGuid": "e0a99313-4983-48a4-bfb2-7bd6a7a257c9",
+      "DisplayName": "HW4_2_21307130365",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

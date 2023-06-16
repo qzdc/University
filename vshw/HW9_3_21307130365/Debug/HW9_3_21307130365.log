@@ -1,0 +1,5 @@
+﻿  HW9_3_21307130365.cpp
+C:\Users\浅斟低唱\Desktop\docs\vshw\HW9_3_21307130365\HW9_3_21307130365.cpp(30,36): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\浅斟低唱\Desktop\docs\vshw\HW9_3_21307130365\HW9_3_21307130365.cpp(30,36): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\浅斟低唱\Desktop\docs\vshw\HW9_3_21307130365\HW9_3_21307130365.cpp(27,34): warning C4101: “zhou”: 未引用的局部变量
+  HW9_3_21307130365.vcxproj -> C:\Users\浅斟低唱\Desktop\docs\vshw\HW9_3_21307130365\Debug\HW9_3_21307130365.exe

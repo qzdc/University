@@ -1,0 +1,4 @@
+﻿  HW10_3_21307130365.cpp
+C:\Users\浅斟低唱\Desktop\docs\vshw\HW10_3_21307130365\HW10_3_21307130365.cpp(8,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\浅斟低唱\Desktop\docs\vshw\HW10_3_21307130365\HW10_3_21307130365.cpp(5,16): warning C4101: “t”: 未引用的局部变量
+  HW10_3_21307130365.vcxproj -> C:\Users\浅斟低唱\Desktop\docs\vshw\HW10_3_21307130365\Debug\HW10_3_21307130365.exe

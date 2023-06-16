@@ -1,0 +1,34 @@
+# Project: HW14_1_21307130365
+# Makefile created by Red Panda Dev-C++ beta.0.10.3
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+RES      = HW14_1_21307130365_private.res
+OBJ      = HW13_1_21307130365.o $(RES)
+LINKOBJ  = HW13_1_21307130365.o $(RES)
+CLEANOBJ  =  HW13_1_21307130365.o $(RES)
+LIBS     = 
+INCS     =  
+CXXINCS  =  
+BIN      = HW14_1_21307130365.exe
+CXXFLAGS = $(CXXINCS)  -Wall -Wextra -g3 -pipe -D__DEBUG__
+CFLAGS   = $(INCS)  -Wall -Wextra -g3 -pipe -D__DEBUG__
+RM       = del /q /f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(CLEANOBJ) $(BIN) > NUL 2>&1
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+HW13_1_21307130365.o: HW13_1_21307130365.c
+	$(CC) -c C:/Users/Ç³ÕåµÍ³ª/Desktop/docs/vshw/HW14_1_21307130365/HW13_1_21307130365.c -o HW13_1_21307130365.o $(CFLAGS) 
+
+HW14_1_21307130365_private.res: HW14_1_21307130365_private.rc 
+	$(WINDRES) -i HW14_1_21307130365_private.rc --input-format=rc -o HW14_1_21307130365_private.res -O coff 
+

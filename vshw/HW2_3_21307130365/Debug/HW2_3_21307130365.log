@@ -1,0 +1,6 @@
+﻿  HW2_3_21307130365.cpp
+C:\Users\浅斟低唱\Desktop\doc\vshw\HW2_3_21307130365\HW2_3_21307130365.cpp(11,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\浅斟低唱\Desktop\doc\vshw\HW2_3_21307130365\HW2_3_21307130365.cpp(12,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\浅斟低唱\Desktop\doc\vshw\HW2_3_21307130365\HW2_3_21307130365.cpp(13,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\浅斟低唱\Desktop\doc\vshw\HW2_3_21307130365\HW2_3_21307130365.cpp(14,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  HW2_3_21307130365.vcxproj -> C:\Users\浅斟低唱\Desktop\doc\vshw\HW2_3_21307130365\Debug\HW2_3_21307130365.exe

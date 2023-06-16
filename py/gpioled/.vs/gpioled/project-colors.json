@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ee5ca99-e16e-4afc-b503-9f99a6df2a0d": {
+      "ProjectGuid": "7ee5ca99-e16e-4afc-b503-9f99a6df2a0d",
+      "DisplayName": "gpioled",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl board::ini(void)" (?ini@board@@QEAAXXZ)，函数 "public: __cdecl board::board(void)" (??0board@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl board::ini(void)" (?ini@board@@QEAAXXZ)
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl board::print(void)const " (?print@board@@QEBAXXZ)，函数 "public: void __cdecl Game2048::print(void)" (?print@Game2048@@QEAAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl board::place(void)" (?place@board@@QEAAXXZ)，函数 "public: void __cdecl Game2048::place(void)" (?place@Game2048@@QEAAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl board::move(int)" (?move@board@@QEAAXH@Z)，函数 "public: void __cdecl Game2048::move(int)" (?move@Game2048@@QEAAXH@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: bool __cdecl board::isavi(void)const " (?isavi@board@@QEBA_NXZ)，函数 main 中引用了该符号
+C:\Users\浅斟低唱\Desktop\docs\0hw\cpphw\Game2048\x64\Debug\Game2048.exe : fatal error LNK1120: 5 个无法解析的外部命令
